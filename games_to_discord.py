@@ -33,8 +33,8 @@ def load_config() -> Dict[str, str]:
     
     # Default configuration
     config = {
-        "rawg_api_key": "d430c2ba8e9146d7af53c78d27ba9a57",
-        "discord_webhook_url": "https://discord.com/api/webhooks/1326943556698640455/CrfsqFW9DohoFB-Fu-z3Dl17uOHnnMN0XJ1xdt4klALd9JcNsEQ4OSNoXxpYkBXvq84Z"
+        "rawg_api_key": "",
+        "discord_webhook_url": ""
     }
     
     # Ask for configuration values
